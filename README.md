@@ -35,7 +35,7 @@ Simply [install the A.C.A.S userscript](https://greasyfork.org/en/scripts/459137
 
 | A.C.A.S (Tab #1)    | Chess Website (Tab #2)  |
 |----------------------|----------------------|
-| ![image](https://github.com/fanat1cc/A.C.A.S/assets/76921756/787740d5-b6a2-4ff1-8e8b-b96699a526e7) | ![image](https://github.com/fanat1cc/A.C.A.S/assets/76921756/44c9e498-42fd-4d3f-92ea-91371e9732b5) |
+| ![image](https://github.com/Psyyke/A.C.A.S/assets/76921756/787740d5-b6a2-4ff1-8e8b-b96699a526e7) | ![image](https://github.com/Psyyke/A.C.A.S/assets/76921756/44c9e498-42fd-4d3f-92ea-91371e9732b5) |
 | The engine runs on a completely different tab than the chess game page, completely isolated from it. The site cannot block the usage of A.C.A.S. | A.C.A.S sends move data via [CommLink](https://github.com/AugmentedWeb/CommLink) and the userscript displays the data on the board using [UniversalBoardDrawer](https://github.com/Hakorr/UniversalBoardDrawer). (*If "Display Moves On External Site" setting is activated!*) |
 
 ### Arrow Meaning
