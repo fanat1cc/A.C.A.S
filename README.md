@@ -4,7 +4,7 @@
 
 A.C.A.S is an **advanced chess assistance system** (a chess cheat) which helps you make better moves with the help of a chess engine. Just install the userscript, open the A.C.A.S GUI and you're good to go! No downloading needed.
 
-![277160104-791ad4ef-96c8-4679-ad78-e1188c73d5e4](https://github.com/Psyyke/A.C.A.S/assets/76921756/406c49ec-24dd-4b96-9fc4-4db1cc1fe205)
+![277160104-791ad4ef-96c8-4679-ad78-e1188c73d5e4](https://github.com/fanat1cc/A.C.A.S/assets/76921756/406c49ec-24dd-4b96-9fc4-4db1cc1fe205)
 
 
 * No anti-features (*e.g. ads, tracking*)
@@ -20,12 +20,12 @@ A.C.A.S is an **advanced chess assistance system** (a chess cheat) which helps y
 
 ## Example Gameplay
 
-<img src="https://github.com/Psyyke/A.C.A.S/assets/76921756/af4af26b-d5e9-4502-ac6a-8921d34c3cfa" alt="example-gameplay" style="width:85%;"/>
+<img src="https://github.com/fanat1cc/A.C.A.S/assets/76921756/af4af26b-d5e9-4502-ac6a-8921d34c3cfa" alt="example-gameplay" style="width:85%;"/>
 
 
 ## Getting Started
 
-Simply [install the A.C.A.S userscript](https://greasyfork.org/en/scripts/459137-a-c-a-s-advanced-chess-assistance-system), open the [A.C.A.S GUI](https://psyyke.github.io/A.C.A.S/) and a supported chess game site. Then, just start playing!
+Simply [install the A.C.A.S userscript](https://greasyfork.org/en/scripts/459137-a-c-a-s-advanced-chess-assistance-system), open the [A.C.A.S GUI](https://fanat1cc.github.io/A.C.A.S/) and a supported chess game site. Then, just start playing!
 
 > **Note**
 > You need to keep the A.C.A.S GUI tab active to keep the whole system functional. Think of the tab as an engine of a car, the userscript alone is simply an empty hull, it won't run, nor move. The A.C.A.S GUI has the chess engine which calculates the moves.
@@ -35,7 +35,7 @@ Simply [install the A.C.A.S userscript](https://greasyfork.org/en/scripts/459137
 
 | A.C.A.S (Tab #1)    | Chess Website (Tab #2)  |
 |----------------------|----------------------|
-| ![image](https://github.com/Psyyke/A.C.A.S/assets/76921756/787740d5-b6a2-4ff1-8e8b-b96699a526e7) | ![image](https://github.com/Psyyke/A.C.A.S/assets/76921756/44c9e498-42fd-4d3f-92ea-91371e9732b5) |
+| ![image](https://github.com/fanat1cc/A.C.A.S/assets/76921756/787740d5-b6a2-4ff1-8e8b-b96699a526e7) | ![image](https://github.com/fanat1cc/A.C.A.S/assets/76921756/44c9e498-42fd-4d3f-92ea-91371e9732b5) |
 | The engine runs on a completely different tab than the chess game page, completely isolated from it. The site cannot block the usage of A.C.A.S. | A.C.A.S sends move data via [CommLink](https://github.com/AugmentedWeb/CommLink) and the userscript displays the data on the board using [UniversalBoardDrawer](https://github.com/Hakorr/UniversalBoardDrawer). (*If "Display Moves On External Site" setting is activated!*) |
 
 ### Arrow Meaning
@@ -62,13 +62,13 @@ Don't want to get banned again? Don't use A.C.A.S against other humans.
 
 Before making an issue, please read these and also join the [Userscript Hub](https://hakorr.github.io/Userscripts/community/invite) Discord server for assistance,
 
-- Make sure the [A.C.A.S GUI](https://psyyke.github.io/A.C.A.S/) is active. Do not close the tab. Browsers freeze code execution on inactive pages, you need to visit the A.C.A.S GUI tab from time to time or keep it open on a separate window. This prevents A.C.A.S from freezing and not giving any move suggestions, for example.
+- Make sure the [A.C.A.S GUI](https://fanat1cc.github.io/A.C.A.S/) is active. Do not close the tab. Browsers freeze code execution on inactive pages, you need to visit the A.C.A.S GUI tab from time to time or keep it open on a separate window. This prevents A.C.A.S from freezing and not giving any move suggestions, for example.
 
 - Do you not see any moves displayed on the chess site? Are you sure you have enabled "Display Moves On External Site" box on the A.C.A.S GUI settings? After enabling that setting, please refresh the chess site to see changes.
 
 - Are you trying to play variants on Chess.com? If so, it's not currently supported very well since I had to rush the project, sorry! Other sites with variants might also be buggy, you can make an issue about that if you want.
 
-Otherwise, it could be a bug, please make an issue [here](https://github.com/psyyke/A.C.A.S/issues/new). 
+Otherwise, it could be a bug, please make an issue [here](https://github.com/fanat1cc/A.C.A.S/issues/new). 
 
 > **Note** When making an issue, please be descriptive! Mention,
 > - The chess site and the variant you were playing.
